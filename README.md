@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katsumiar
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning c# and phython Programming Language.
-- 📫 katsumiar@gmail.com
+- 📫 katsumiarjp@gmail.com
 
 <!---
 katsumiar/katsumiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
