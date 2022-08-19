@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katsumiar
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning c# and phython Programming Language.
+- 🌱 I’m currently learning c# Programming Language.
 - 📫 katsumiarjp@gmail.com
 
 <!---
